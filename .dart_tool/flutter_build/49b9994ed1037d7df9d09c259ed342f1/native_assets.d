@@ -1,0 +1,1 @@
+ /Users/ekaterinafilichkina/StudioProjects/fer/.dart_tool/flutter_build/49b9994ed1037d7df9d09c259ed342f1/native_assets.yaml: 
