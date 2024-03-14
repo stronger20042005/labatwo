@@ -1,16 +1,7 @@
-# fer
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Лабораторная 2: Шкаф
+## С цифрами 
+<img width="1256" alt="Снимок экрана 2024-03-14 в 12 06 03" src="https://github.com/stronger20042005/labatwo/assets/43694376/2dd878db-c921-45a5-b661-53cec191001a">
+<img width="396" alt="Снимок экрана 2024-03-14 в 12 06 14" src="https://github.com/stronger20042005/labatwo/assets/43694376/0c722609-853e-4e23-9604-24a69636db83">
+## Без цифр 
+<img width="378" alt="Снимок экрана 2024-03-14 в 12 16 35" src="https://github.com/stronger20042005/labatwo/assets/43694376/61ecb231-8cfe-4f4c-9c78-8487ab9a8b93">
+<img width="1257" alt="Снимок экрана 2024-03-14 в 12 16 46" src="https://github.com/stronger20042005/labatwo/assets/43694376/6425d3f4-8a62-4530-8c09-d6f47602fe07">
